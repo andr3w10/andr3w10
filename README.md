@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm André!
+# 👋 Hey there, I'm André!
 👨‍💻 Full stack freelance developer<br>👨‍🎓 Computer science student at Instituto Politécnico de Leiria, Portugal<br>💭 Currently improving my web development skills<br>🌱 Always trying to improve myself<br>🚀 On a mission to push the boundaries of what's possible with code
 
 ## 🌐 Socials:
