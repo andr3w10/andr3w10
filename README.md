@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm André!
-👨‍💻 Full stack freelance developer<br>👨‍🎓 Computer science student at Instituto Politécnico de Leiria, Portugal<br>💭 Currently improving my web development skills<br>🌱 Always trying to improve myself<br>🚀 On a mission to push the boundaries of what's possible with code
+👨‍💻 Full stack freelance developer<br>👨‍🎓 Computer science student at Instituto Politécnico de Leiria, Portugal<br>💭 Currently improving my web development skills<br>🌱 Always trying to improve myself
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ferreira.04_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_ferreira_04_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/andr3w510) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andr3w10)
